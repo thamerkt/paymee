@@ -102,5 +102,6 @@ STATIC_URL = 'static/'
 
 # Default primary key type
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-ALLOWED_HOSTS = ['paymee-dcsy.onrender.com']
+ALLOWED_HOSTS = ['*']
+
 
